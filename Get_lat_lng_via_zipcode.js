@@ -1,4 +1,5 @@
 // Get Lat Lng via Zip Code 
+// Demo : http://jsfiddle.net/aq5smrzy/
 $(document).ready(function(){
     var zipcode = 10001;   // NY
     $.ajax({
